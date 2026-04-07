@@ -1,0 +1,9 @@
+{
+	"name": "ari-df-azureproject",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "229a25bc-df90-4e45-92bf-52ac419760db",
+		"tenantId": "8b2d4483-1cfd-4f70-b345-dec07bd4f22f"
+	}
+}
